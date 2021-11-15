@@ -1,6 +1,4 @@
-# LGE_CMRI_Simulation
-
-## [Paper](https://www.sciencedirect.com/science/article/pii/S0010482521005679):  **Influence of image artifacts on image-based computer simulations of the cardiac electrophysiology**
+## [Paper](https://www.sciencedirect.com/science/article/pii/S0010482521005679) Influence of image artifacts on image-based computer simulations of the cardiac electrophysiology
 
 #### E. Kruithof, S. Amirrajab, M.J.M. Cluitmans, K.D. Lau, M. Breeuwer.
 ----
@@ -19,7 +17,7 @@ Alternatively, Nifti format of the simulated images for different respiratory ph
 
 
 ### Citation
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 ```
 @article{kruithof2021influence,
   title={Influence of image artifacts on image-based computer simulations of the cardiac electrophysiology},
