@@ -15,4 +15,19 @@ cd LGE_CMR_Simulation/
 This code was tested on MATLAB 2018b. To produce the results in the paper, you would need to have the XCAT .bin subject for simulation. The .bin files for this study could be provided upon request. 
 Note that the XCAT is a separate software which offers computerized human anatomical models for simulation. The XCAT software is available [here](https://olv.duke.edu/industry-investors/available-technologies/xcat/)
 
-Alternatively, Nifti format of the simulated images for different respiratory phases is available at [Results](./Results) folder. This data is combined to mimick slice misalignment artifact availabe [here](./Results/Misaligned_Slices.nii.gz)
+Alternatively, Nifti format of the simulated images for different respiratory phases is available at [Results](./Results) folder. This data is combined to mimic slice misalignment artifact [here](./Results/Misaligned_Slices.nii.gz) - note that you need to open .nii.gz file with a medical image viewer.
+
+
+### Citation
+If you use this code for your research, please cite our papers.
+```
+@article{kruithof2021influence,
+  title={Influence of image artifacts on image-based computer simulations of the cardiac electrophysiology},
+  author={Kruithof, E and Amirrajab, Sina and Cluitmans, MJM and Lau, KD and Breeuwer, Marcel},
+  journal={Computers in Biology and Medicine},
+  volume={137},
+  pages={104773},
+  year={2021},
+  publisher={Elsevier}
+}
+```
