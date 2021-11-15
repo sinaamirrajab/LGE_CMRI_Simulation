@@ -7,7 +7,6 @@
 ### LGE cardiac MR image simulation code for generating data with slice misalignment  artifact. The code is an extension on the initial implementation of the [MRXCAT](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-014-0063-3) MATLAB code (available [here](https://biomed.ee.ethz.ch/mrxcat.html)) for simulating LGE cardiac MRI with slice misalignment artifacts
 
 ## Installation
-----
 Clone this repo:
 ```bash
 git clone https://github.com/sinaamirrajab/LGE_CMRI_Simulation
