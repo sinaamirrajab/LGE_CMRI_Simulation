@@ -13,7 +13,7 @@ cd LGE_CMR_Simulation/
 This code was tested on MATLAB 2018b. To produce the results in the paper, you would need to have the XCAT .bin subject for simulation. The .bin files for this study could be provided upon request. 
 Note that the XCAT is a separate software which offers computerized human anatomical models for simulation. The XCAT software is available [here](https://olv.duke.edu/industry-investors/available-technologies/xcat/)
 
-Alternatively, Nifti format of the simulated images for different respiratory phases is available at [Results](./Results) folder. This data is combined to mimic slice misalignment artifact [here](./Results/Misaligned_Slices.nii.gz) - note that you need to open .nii.gz file with a medical image viewer.
+Alternatively, Nifti format of the simulated images for different respiratory phases is available at [Results](./Results) folder. This data is combined to mimic slice misalignment artifact [Image3](./Results/Image3.nii.gz) - note that you need to open .nii.gz file with a medical image viewer. [Image1](./Results/Image2.nii.gz) and [Image2](./Results/Image2.nii.gz) are simulations for high and low resolutions, respectievly.
 
 
 ### Citation
