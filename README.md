@@ -36,7 +36,8 @@ If you use this code for your research, please cite our paper.
   publisher={Elsevier}
 }
 ```
-[![DOI](https://zenodo.org/badge/428195099.svg)](https://zenodo.org/badge/latestdoi/428195099)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5702423.svg)](https://doi.org/10.5281/zenodo.5702423)
 
 
 ### License
