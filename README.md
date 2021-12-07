@@ -38,5 +38,6 @@ If you use this code for your research, please cite our paper.
 ```
 [![DOI](https://zenodo.org/badge/428195099.svg)](https://zenodo.org/badge/latestdoi/428195099)
 
+
 ### License
 [openGTN](http://opengtn.eu) simulated / synthetic MRI data by EU Marie Curie ITN-EID program (project 764465) is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License available at [CC](https://creativecommons.org/licenses/by-nc-nd/4.0/).
